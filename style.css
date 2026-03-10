@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+header span {
+ text-align:center;
+ font-size:36px;
+}
+header p {
+    text-align: center;
+}
+.kks {
+    color:lightgray;
+}
+header {
+    background-color:lightgray;
+}
+.hfh {
+    display:inline-block;
+    width:50%;
+    top:190px;
+    position:absolute;
+    font-size:30px
+    }
+    img {
+        border-radius:200px;
+        padding:16px
+    }
+    h2 {
+        text-align:center;
+    }
+    .hh {
+        display:inline-block;
+        width:50%;
+        position:absolute;
+        font-size:40px
+    }
+    .has{
+        margin-left:51%;
+    }
+    .gog {
+        width:50%;
+    }
+    .pjj {
+         display:inline-block;
+    width:50%;
+    top:1700px;
+    position:absolute;
+    font-size:30px
+
+    }
+    ol {
+        font-size:19px;
+        width:25%;
+        display:inline-block;
+    }
+    .lpk {
+        font-size:21.4px;
+    }
+    .xdf {
+        font-size:23px;
+    }
